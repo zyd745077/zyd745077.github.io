@@ -753,9 +753,9 @@ a {
 }
 
       .sidebar {
-        width: 100%;
+        width: 320;
       }
       .main-container {
-        margin-left: 100%;
+        margin-left: 320;
       }
     
